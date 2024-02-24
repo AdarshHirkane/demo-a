@@ -1,4 +1,4 @@
 # demo-a
 this is my first repo.
 <br>
-Author - Adarsh Hirkane(citu)
+Author - Adarsh Hirkane(citu bhai)
